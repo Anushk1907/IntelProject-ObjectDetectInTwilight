@@ -47,6 +47,6 @@ The generalization of object detectors is the key to the success of the autonomo
 ### Comparitive Study Results
 
 ## Credits
-This project was completed by a team of students from PES University, Kashish Oberoi, Shobhit Tuli, Anuvrat Singhal, and Anushk Misra 
+This project was completed by a team of students from PES University: Kashish Oberoi, Shobhit Tuli, Anuvrat Singhal, and Anushk Misra 
 under the Guidance of Prof. Veena S., Department of ECE, PES University.
 
